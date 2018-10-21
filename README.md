@@ -8,6 +8,7 @@
     2. it takes a process name, as a parameter
     3. it checks that process, its memory usage
     4. based on the amount used (750 MB) kills the process, no questions asked
+    5. the last calculated value you will find `~/gnome-shell-behave.log`
 
 One can replace the `kill` command with a system notification or other actions. Use your imagination :-)
 
